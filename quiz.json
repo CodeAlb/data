@@ -1,0 +1,194 @@
+{
+  "countryCapitals": {
+    "title": "Country Capitals",
+    "timeOut": 15,
+    "category": "Geography",
+    "image": "static/img/coverCountryCapitals.jpg",
+    "easy": [
+      {
+        "question": "Capital city of Albania",
+        "answer": "Tirana",
+        "choices": [
+          "Shkodra",
+          "Vlora",
+          "Korca",
+          "Durres"
+        ]
+      },
+      {
+        "question": "Capital city of Germany",
+        "answer": "Berlin",
+        "choices": [
+          "Munchen",
+          "Hamburg",
+          "Frankfurt",
+          "Hanover"
+        ]
+      },
+      {
+        "question": "Capital city of Italy",
+        "answer": "Roma",
+        "choices": [
+          "Milano",
+          "Florence",
+          "Naples",
+          "Palermo"
+        ]
+      },
+      {
+        "question": "Capital city of Spain",
+        "answer": "Madrid",
+        "choices": [
+          "Barcelona",
+          "Seville",
+          "Bilbao",
+          "Valencia"
+        ]
+      },
+      {
+        "question": "Capital city of England",
+        "answer": "London",
+        "choices": [
+          "Manchester",
+          "Liverpool",
+          "Cambridge",
+          "Leicester"
+        ]
+      },
+      {
+        "question": "Capital city of Netherlands",
+        "answer": "Amsterdam",
+        "choices": [
+          "The Hague",
+          "Utrecht",
+          "Groningen",
+          "Eindhoven"
+        ]
+      },
+      {
+        "question": "Capital city of USA",
+        "answer": "New York",
+        "choices": [
+          "Los Angeles",
+          "San Francisco",
+          "Washington D.C.",
+          "Las Vegas"
+        ]
+      },
+      {
+        "question": "Capital city of Canada",
+        "answer": "Ottawa",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      }
+    ],
+    "medium": [
+      {
+        "question": "Capital city of Albania",
+        "answer": "Tirana",
+        "choices": [
+          "Shkodra",
+          "Vlora",
+          "Korca",
+          "Durres"
+        ]
+      }
+    ],
+    "hard": [
+      {
+        "question": "Capital city of Canada",
+        "answer": "Ottawa",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      }
+    ]
+  },
+  "cityCapitals": {
+    "title": "Find footballer",
+    "timeOut": 15,
+    "category": "Football",
+    "image": "static/img/coverCountryCapitals.jpg",
+    "easy": [],
+    "medium": [
+      {
+        "question": "Capital city of Canada",
+        "answer": "Ottawa",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      }
+    ],
+    "hard": []
+  },
+  "continentCapitals": {
+    "title": "Find city",
+    "timeOut": 15,
+    "category": "Culture",
+    "image": "static/img/coverCountryCapitals.jpg",
+    "easy": [],
+    "medium": [],
+    "hard": [
+      {
+        "image": "https://images.unsplash.com/photo-1610638902954-0a584d9bf0ad?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1541&q=80",
+        "answer": "Paris",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1598607193905-bea8ba218b3d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1575&q=80",
+        "answer": "Paris",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1610100536269-f92ed34b09f5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1575&q=80",
+        "answer": "Paris",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1602287873399-12f99af0101f?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1534&q=80",
+        "answer": "Paris",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1562374391-6bf059950b99?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1575&q=80",
+        "answer": "Paris",
+        "choices": [
+          "Toronto",
+          "Montreal",
+          "Vancouver",
+          "Quebec City"
+        ]
+      }
+    ]
+  }
+}
