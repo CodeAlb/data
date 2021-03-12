@@ -115,7 +115,7 @@
     "title": "Find footballer",
     "timeOut": 15,
     "category": "Football",
-    "image": "/static/img/cover__footballers-2.jpg",
+    "image": "/static/img/cover__footballers.jpg",
     "easy": [],
     "medium": [
       {
