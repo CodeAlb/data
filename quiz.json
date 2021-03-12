@@ -3,7 +3,7 @@
     "title": "Country Capitals",
     "timeOut": 15,
     "category": "Geography",
-    "image": "/static/img/coverCountryCapitals.jpg",
+    "image": "/static/img/cover__capitals.jpg",
     "easy": [
       {
         "question": "Capital city of Albania",
@@ -115,7 +115,7 @@
     "title": "Find footballer",
     "timeOut": 15,
     "category": "Football",
-    "image": "/static/img/coverCountryCapitals.jpg",
+    "image": "/static/img/cover__footballers-2.jpg",
     "easy": [],
     "medium": [
       {
@@ -135,7 +135,7 @@
     "title": "Find city",
     "timeOut": 15,
     "category": "Culture",
-    "image": "/static/img/coverCountryCapitals.jpg",
+    "image": "/static/img/cover__city.jpg",
     "easy": [],
     "medium": [],
     "hard": [
